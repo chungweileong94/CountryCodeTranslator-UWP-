@@ -1,4 +1,4 @@
-# CountryCodeTranslator (UWP) (Partial Code)
+# Country Code Translator (UWP) (Partial Code)
 
 Translate country code to full country name <br/>
 > Example: "MY" => "Malaysia"
